@@ -2,6 +2,7 @@
 
 Load points which define control points of a B-spline. Load an object defined by a .obj file and draw it. 
 Animate that object to move along the approximation or interpolation B-spline.
+Note: use right click for menu
 
 ## Requirements
   1. freeglut library
