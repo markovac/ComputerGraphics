@@ -1,4 +1,4 @@
-# Assigment one
+# Assigment two
 
 Load a file defining a texture of a particle. Create a random system of particles which does simulate some real system(fire, smoke, ...).
 Rotate every particle towards the camera using bilboarding technique.
